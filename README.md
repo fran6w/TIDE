@@ -3,6 +3,7 @@
 Francis Wolinski
 - Consultant scientifique indépendant depuis 2013
 - Intervenant dans le Master TIDE depuis 2015
+- Test de git
 
 ### Organisation des conférences Python
 - Notebooks et jeux de données disponibles sur : https://github.com/fran6w/TIDE
