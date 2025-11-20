@@ -24,14 +24,15 @@ Francis Wolinski
 - **pandas** : Data Fusion, Data Analysis, Dataviz (matplotlib, seaborn)
 
 ### Session 3 : 23/10/2025
-- **pandas** : Séries Temporelles, Dataviz (matplotlib, sparklines), Data Transformation, Data Extraction, Stylisation des Dataframes
+- **pandas** : Séries Temporelles, Dataviz (matplotlib, sparklines), Data Extraction, Stylisation des Dataframes
 
 ### Session 4 : 20/11/2025
-- **requests**, **bs4** : Web Scraping
-- **requests** : Requesting API
-- **lxml** : Parsing XML
+- **NumPy** : manipulations des *ndarrays*
+- **pandas**: Data Transformation
 
 ### Session 5 : 04/12/2025
+- **requests**, **bs4** : Web Scraping
+- **requests** : Requesting API
 - **plotly** : Dataviz
 
 ### Session 6 : 18/12/2025
