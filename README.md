@@ -33,7 +33,7 @@ Francis Wolinski
 ### Session 5 : 04/12/2025
 - **requests**, **bs4** : Web Scraping
 - **requests** : Requesting API
-- **plotly** : Dataviz
 
 ### Session 6 : 18/12/2025
+- **plotly** : Dataviz
 - **scikit-learn** : Machine Learning, Text Mining
