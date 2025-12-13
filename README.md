@@ -36,4 +36,3 @@ Francis Wolinski
 
 ### Session 6 : 18/12/2025
 - **plotly** : Dataviz
-- **scikit-learn** : Machine Learning, Text Mining
