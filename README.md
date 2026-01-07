@@ -13,6 +13,8 @@ Francis Wolinski
     - [git cheat sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
     - [vidéo git](https://www.youtube.com/watch?v=USjZcfj8yxE)
     - [vidéo github](https://www.youtube.com/watch?v=nhNq2kIvi9s)
+    - [git branching](https://learngitbranching.js.org/?locale=fr_FR)
+    - [git practice](https://gitbybit.com/)
 
 ### Session 1 : 09/10/2025
 - méthodologie **CRISP-DM**
