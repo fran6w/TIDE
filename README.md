@@ -36,5 +36,5 @@ Francis Wolinski
 - **requests**, **bs4** : Web Scraping
 - **requests** : Requesting API
 
-### Session 6 : 18/12/2025
+### Session 6 : 8/01/2026
 - **plotly** : Dataviz
